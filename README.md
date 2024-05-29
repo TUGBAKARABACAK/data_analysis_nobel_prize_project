@@ -14,3 +14,6 @@ Veri seti aşağıdaki kolonları içermektedir:
 - `birth_country`: Ödül kazanan kişinin vatandaşı olduğu ülke.
 - `birth_date`: Ödül kazanan kişinin doğum tarihi.
 - `organization_country`: Ödül kazanan kişinin çalıştığı kurumun bulunduğu ülke.
+
+
+EDA, Nobel Ödülü kazananların cinsiyet, yaş, ülke ve ödül alanlarına göre dağılımı hakkında içgörüler sağlar. Görselleştirmeler, farklı kategorilerdeki kazananların zaman içindeki değişimlerini ve demografik özelliklerini anlamamıza yardımcı olur.
